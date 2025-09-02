@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/shadymo2291/product-preview-card-component-solution
 
 ### Built with
 
@@ -21,7 +21,7 @@
 
 ### What I learned
 
-in this project i used some CSS properties to help for responsive font size, such as @media, also i learned how to use hover effect and transition and animation
+In this project, I used some CSS properties to help with responsive font size, such as @media. Also, I learned how to use hover effect and transition, and animation
 
 To see how you can add code snippets, see below:
 
@@ -39,7 +39,7 @@ background-color: var(--hover-color);
 
 ### Continued development
 
-I want to learn more about responsive websites and how to use hover effect
+I want to learn more about responsive websites and how to use the hover effect
 
 ### Useful resources
 
